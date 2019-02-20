@@ -1,1 +1,7 @@
-<h1> <u> <center> </h1>
+h1 {
+   text-align: center;
+   background-color: Gainsboro;
+   font-size: 25px;
+   font-family: Verdana, "Sans-serif"
+   }
+
