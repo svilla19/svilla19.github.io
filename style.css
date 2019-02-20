@@ -2,6 +2,10 @@ h1 {
    text-align: center;
    background-color: Gainsboro;
    font-size: 60px;
-   color: DeepPink
+   color: DeepPink;
    }
 
+h2 {
+   font-size: 35px;
+   color: DarkMagenta;
+   }
