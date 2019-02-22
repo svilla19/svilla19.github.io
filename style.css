@@ -9,7 +9,10 @@ p {
    font-size:19px;
    text-align: center
   }
-
+body {
+   background-image:"website-pic-1";
+  }
+      
 h2 {
    font-size: 35px;
    color: DarkMagenta;
